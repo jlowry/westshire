@@ -1,8 +1,9 @@
 {
   "id": "westshire",
   "title": "Westshire",
-  "version": "1.0.0",
+  "version": "2024-09-24_17_36_51",
   "system": "dnd5e",
+  "download": "https://github.com/jlowry/westshire/releases/download/2024-09-24_17_36_51/ForgeVTT-export-westshire-2024-09-24_17_36_51.zip",
   "coreVersion": "11.315",
   "systemVersion": "3.2.1",
   "compatibility": {
